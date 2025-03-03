@@ -1,0 +1,14 @@
+C:\TPModul3_2311104073\TPModul3_2311104073\bin\Debug\net8.0\TPModul3_2311104073.exe
+C:\TPModul3_2311104073\TPModul3_2311104073\bin\Debug\net8.0\TPModul3_2311104073.deps.json
+C:\TPModul3_2311104073\TPModul3_2311104073\bin\Debug\net8.0\TPModul3_2311104073.runtimeconfig.json
+C:\TPModul3_2311104073\TPModul3_2311104073\bin\Debug\net8.0\TPModul3_2311104073.dll
+C:\TPModul3_2311104073\TPModul3_2311104073\bin\Debug\net8.0\TPModul3_2311104073.pdb
+C:\TPModul3_2311104073\TPModul3_2311104073\obj\Debug\net8.0\TPModul3_2311104073.GeneratedMSBuildEditorConfig.editorconfig
+C:\TPModul3_2311104073\TPModul3_2311104073\obj\Debug\net8.0\TPModul3_2311104073.AssemblyInfoInputs.cache
+C:\TPModul3_2311104073\TPModul3_2311104073\obj\Debug\net8.0\TPModul3_2311104073.AssemblyInfo.cs
+C:\TPModul3_2311104073\TPModul3_2311104073\obj\Debug\net8.0\TPModul3_2311104073.csproj.CoreCompileInputs.cache
+C:\TPModul3_2311104073\TPModul3_2311104073\obj\Debug\net8.0\TPModul3_2311104073.dll
+C:\TPModul3_2311104073\TPModul3_2311104073\obj\Debug\net8.0\refint\TPModul3_2311104073.dll
+C:\TPModul3_2311104073\TPModul3_2311104073\obj\Debug\net8.0\TPModul3_2311104073.pdb
+C:\TPModul3_2311104073\TPModul3_2311104073\obj\Debug\net8.0\TPModul3_2311104073.genruntimeconfig.cache
+C:\TPModul3_2311104073\TPModul3_2311104073\obj\Debug\net8.0\ref\TPModul3_2311104073.dll
